@@ -1,11 +1,11 @@
-.navbar, .hero {
-    --dark: #1f2937;
+:root {
+    --dark-background-color: #1f2937;
+    --primary-text-color: #f9faf8;
 }
 
 html {
     font-size: 100%;
     box-sizing: border-box;
-    color: white;
 }
 
 *, *::before, *::after {
@@ -19,18 +19,19 @@ body {
     flex-direction: column;
 }
 
-.navbar {
+ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
+#main-nav {
     display: flex;
     height: 100px;
     align-items: center;
     justify-content: space-around;
-    background-color: var(--dark);
-}
-
-.navbar .links {
-    list-style-type: none;
-    display: flex;
-    gap: 20px;
+    background-color: var(--dark-background-color);
+    color: var(--primary-text-color);
 }
 
 #hero-image {
@@ -38,9 +39,7 @@ body {
     height: auto;
 }
 
-
 .logo {
-    flex: initial;
     display: flex;
     justify-content: center;
     align-items: center;
