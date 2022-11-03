@@ -1,7 +1,7 @@
 * Odin Project Landing Page
 ** Description
 This is a simple landing page, conforming to the specifications given
-in [[file:desired-outcome.png]] and [[file:project-specifications.png]].
+in [[file:desired-outcome.png][desired-outcome.png]] and [[file:project-specifications.png][project-specifications.png]].
 
 I must say, this was a little tougher than expected!
 
