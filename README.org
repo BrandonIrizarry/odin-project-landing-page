@@ -1,0 +1,13 @@
+* Odin Project Landing Page
+** Description
+This is a simple landing page, conforming to the specifications given
+in [[file:desired-outcome.png]] and [[file:project-specifications.png]].
+
+I must say, this was a little tougher than expected!
+
+The hero image is one that's fetched automatically from [[https://picsum.photos][Picsum
+Photos]]. Note that Picsum's URL is also accessible as
+[[https://unsplash.it]].
+
+I found the aesthetic of the Picsum photos to be a perfect match for
+the design.
